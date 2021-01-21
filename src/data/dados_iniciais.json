@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "INDIE.world",
+      "cor": "black",
+       "videos": [
+        {
+          "titulo": "Lana Del Rey - Born To Die",
+          "url": "https://www.youtube.com/watch?v=Bag1gUxuU0g"
+        },
+        {
+          "titulo": "Arctic Monkeys - Fluorescent Adolescent",
+          "url": "https://www.youtube.com/watch?v=ma9I9VBKPiw"
+        },
+        {
+          "titulo": "The Neighbourhood - Sweater Weather",
+          "url": "https://www.youtube.com/watch?v=GCdwKhTtNNw"
+        },
+        {
+          "titulo": "Arctic Monkeys - R U Mine?",
+          "url": "https://www.youtube.com/watch?v=VQH8ZTgna3Q"
+        },
+        {
+          "titulo": "Foster The People - Pumped up Kicks",
+          "url": "https://www.youtube.com/watch?v=SDTZ7iX4vTQ"
+        },
+        {
+          "titulo": "Phoenix - Lisztomania ",
+          "url": "https://www.youtube.com/watch?v=4BJDNw7o6so"
+        },
+        {
+          "titulo": "Florence + The Machine - Dog Days Are Over",
+          "url": "https://www.youtube.com/watch?v=iWOyfLBYtuU"
+        }
+               
+      ]
+    },
+    {
+      "titulo": "Indiespensável",
+      "cor": "black",
+      "videos": [
+        {
+          "titulo": "MGMT - Kids",
+          "url": "https://www.youtube.com/watch?v=fe4EK4HSPkI"
+        },
+        {
+          "titulo": "The Vaccines - If You Wanna",
+          "url": "https://www.youtube.com/watch?v=uQKjI6395iU"
+        },
+        {
+          "titulo": "The Shins - New Slang",
+          "url": "https://www.youtube.com/watch?v=zYwCmcB0XMw"
+        },
+        {
+          "titulo": "No Rome - Hurry Home ft. beabadoobee, Jay Som",
+          "url": "http://youtube.com/watch?v=NpdHoOxnkSc"
+        }, 
+        {
+          "titulo": "Sports - Tell You Something",
+          "url": "https://www.youtube.com/watch?v=nLu-HEZjwE0"
+        },
+        {
+          "titulo": "Kllo - Insomnia",
+          "url": "https://www.youtube.com/watch?v=QJdm3I0gcnI"
+        }
+      ]
+    },
+    {
+      "titulo": "Indie Stage",
+      "cor": "black",
+      "videos": [
+        {
+          "titulo": "Cigarettes After Sex - You're All I Want",
+          "url": "https://www.youtube.com/watch?v=16aIvXz09B8"
+        },
+        {
+          "titulo": "Bug Eyes",
+          "url": "https://www.youtube.com/watch?v=YiuSLy5atTo"
+        },
+        {
+          "titulo": "RAC - Passion (ft. Louis The Child)",
+          "url": "https://www.youtube.com/watch?v=aoDovRKBZlA"
+        },
+        {
+          "titulo": "Franz Ferdinand - Take Me Out",
+          "url": "https://www.youtube.com/watch?v=GhCXAiNz9Jo"
+        },
+        {
+          "titulo": "Pixies - Where Is My Mind",
+          "url": "https://www.youtube.com/watch?v=N3oCS85HvpY"
+        },
+        {
+          "titulo": "Razorlight - Golden Touch",
+          "url": "https://www.youtube.com/watch?v=KbANp9cRd6o"
+        }
+      ]
+    },
+    {
+      "titulo": "Alternative 00s",
+      "cor": "black",
+      "videos": [
+        {
+          "titulo": "Foals - My Number",
+          "url": "https://www.youtube.com/watch?v=QRR_pvZcu-o"
+        },
+        {
+          "titulo": "Arcade Fire - Rebellion (Lies)",
+          "url": "https://www.youtube.com/watch?v=8vN2vqaEBhM"
+        },
+        {
+          "titulo": "The kooks- Young Folks",
+          "url": "https://www.youtube.com/watch?v=u3H65ek9ZKs"
+        },
+        {
+          "titulo": "Peter Bjorn And John - Young Folks",
+          "url": "https://www.youtube.com/watch?v=iArXv64tCJA"
+        },
+        {
+          "titulo": "The Coral - Dreaming Of You",
+          "url": "https://www.youtube.com/watch?v=QXt723fN1ss"
+        },
+        {
+          "titulo": "The xx - Crystalised ",
+          "url": "https://www.youtube.com/watch?v=Pib8eYDSFEI"
+        }
+      ]
+    },
+    {
+      "titulo": "Indie Rock Club",
+      "cor": "black",
+      "videos": [
+        {
+          "titulo": "Bloc Party - Banquet",
+          "url": "https://www.youtube.com/watch?v=vdkmhquF60o"
+        },
+        {
+          "titulo": "Hot Chip - 'Ready For The Floor'",
+          "url": "https://www.youtube.com/watch?v=8Cxry9cLFQI"
+        },
+        {
+          "titulo": "The Cure - Just Like Heaven",
+          "url": "https://www.youtube.com/watch?v=n3nPiBai66M"
+        },
+        {
+          "titulo": "The Smiths - Ask",
+          "url": "https://www.youtube.com/watch?v=zoo9Vu1a9bU"
+        },
+        {
+          "titulo": "Anyone Else But You (The Moldy Peaches)",
+          "url": "https://www.youtube.com/watch?v=ceV62E-c86g"
+        },
+        {
+          "titulo": "Joy Division - Love Will Tear Us Apart",
+          "url": "https://www.youtube.com/watch?v=zuuObGsB0No"
+        }
+      ]
+    },
+    {
+      "titulo": "Outras Músicas Indie",
+      "cor": "black",
+      "videos": [
+        {
+          "titulo": "The Jesus And Mary Chain - Just Like Honey ",
+          "url": "https://www.youtube.com/watch?v=7EgB__YratE"
+        },
+        {
+          "titulo": "Yeah Yeah Yeahs - Maps",
+          "url": "https://www.youtube.com/watch?v=oIIxlgcuQRU"
+        },
+        {
+          "titulo": "Heartless Bastards - Revolution",
+          "url": "https://www.youtube.com/watch?v=XDQ7B6ePuvE"
+        },
+        {
+          "titulo": "Phantom Planet - California",
+          "url": "https://www.youtube.com/watch?v=wq-S8CIU7VA"
+        },
+        {
+          "titulo": "Wallows - Are You Bored Yet?",
+          "url": "https://www.youtube.com/watch?v=F5yy1rbnqgw"
+        },
+        {
+          "titulo": "cavetown - smoke signals feat. tessa violet ",
+          "url": "https://www.youtube.com/watch?v=2zSHMXNLWRQ"
+        }
+      ]
+    }
+  ]
+}
